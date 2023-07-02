@@ -1,0 +1,232 @@
+{
+  "common": {
+    "ok": "OK!",
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "errors": {
+    "invalidEmail": "Invalid email address."
+  },
+  "bottomtabs":{
+    "home" : "Home",
+    "notification":"Notification",
+    "profile":"Profile"
+  },
+  "loginScreen": {
+    "productBy": "Employee",
+    "nameProduct": "Self Service",
+    "username": "User name",
+    "forgotPassword" :"Forgot your password",
+    "login" : "Sign in",
+    "password":"Password",
+    "loading":"Loading",
+    "saveAccount":"Save Account",
+    "headerError":"Messenger",
+    "messError":"Wrong account or password",
+    "closeError":"Close",
+    "Choose":"Choose",
+    "selectOrganization":"Select Organization"
+  },
+  "homeScreen":{
+    "welcome":"Welcome back",
+    "checkin" :"CHECK IN",
+    "checkout":"CHECK OUT",
+    "attendance":"Attendance",
+    "overtime" :"Overtime",
+    "drawer":"Home"
+  },
+  "checkinScreen": {
+    "chooseShift": "Choose a shift",
+    "productive": "Have a productive day!",
+    "takeAttendance": "You didn't take attendance today"
+  },
+  "notificationScreen":{
+    "headerText" :"Notification"
+  },
+  "notificationDetailScreen":{
+    "notificationDetail":"Notification Detail",
+    "messagefrom":"Message from :",
+    "content":"Content :",
+    "title":"Title :"
+  },
+  "profileScreen":{
+    "headerText":"Profile",
+    "employ" :"Employee Detail",
+    "logout" :"Log out",
+    "datecount": "Date count",
+    "yearsummary": "Year summary",
+    "contact": "Address and Contact",
+    "language": "Language",
+    "user": "USER",
+    "settings": "SETTINGS",
+    "password": "Password",
+    "accInfo": "Account Infomation",
+    "fullName": "Full name",
+    "addr": "Address",
+    "email": "Email",
+    "birthday": "Birth day",
+    "dateStartWork": "Date start work",
+    "phoneNumber": "Phone number",
+    "code": "Code",
+    "gender": "Gender",
+    "lateOfMonth": "Number of times of being late in the month",
+    "lateOfYear": "Number of times tardy in 1 year",
+    "updateInfo": "Update infomation",
+    "changePassword": "Change password",
+    "verInfo": "Version infomation",
+    "modify": "This field is not modify",
+    "updateAvt": "Update Avatar",
+    "camera": "Camera",
+    "library": "Choose from library",
+    "save": "Save",
+    "curentPassword": "Curent password",
+    "curentPasswordMessage": "Please enter curent password!",
+    "newPassword": "New password",
+    "newPasswordMessage": "Please enter new password!",
+    "retypePassword": "Retype password",
+    "retypePasswordMessage": "Please retype password!",
+    "passwordMessage": "retype password incorrect!",
+    "required": "This field is required",
+    "updateSuccessful": "Update successful!",
+    "cancel": "Cancel"
+  },
+  "attendanceScreen":{
+    "headerText" :"Attendance",
+    "history":"HISTORY",
+    "canlendar" :"CANLENDAR",
+    "pesent":"Present",
+    "absent" :"Absent",
+    "late" :"Late",
+    "date":"Date",
+    "checkin" :"Check in:",
+    "checkout" :"Check out:",
+    "minutes":"Minutes",
+    "checkdataBox":"No Data",
+    "namework":"Song name:",
+    "worknumber":"Work Number",
+    "minuteslate":"Minutes late",
+    "minutesealry":"Minutes Ealry",
+    "overtimehours":"Overtime hours",
+    "shifttime":"Shift time",
+    "timekeepingon":"Timekeeping on",
+    "timekeepingout":"Timekeeping out",
+    "untimed":"untimed",
+    "day":"Day"
+  },
+  "request":{
+    "headerRequest":"Request",
+    "later":"Later",
+    "absence":"Absence",
+    "shiftmore":"Shift more",
+    "overtime":"overtime",
+    "misson":"Misson",
+    "worktime":"Work time",
+    "shiftchange":"Shift change",
+    "checkin":"Check in",
+    "applicationoftheweek":"Application of the week",
+    "allapplications":"All applications have been processed !",
+    "see":"see",
+    "shift":"Shift",
+    "selector":"Selector",
+    "reason":"Reason"
+  },
+  "leaveScreen":{
+    "headerText":"Leave Request",
+    "remaining":"Remaining",
+    "taken" :"Taken",
+    "total" :"Total",
+    "all" :"All",
+    "annual":"Annual",
+    "personal" :"Personal",
+    "sick":"sick",
+    "vacation":"Vacation",
+    "approved":"Approved",
+    "datestart":"Date Start",
+    "dateend":"Date End",
+    "leavetype":"Leave Type",
+    "note":"Note",
+    "document":"Document",
+    "apply":"Apply",
+    "submitrequest":"Are you sure to Submit Request ?",
+    "cancel":"CANCEL",
+    "submit":"SUBMIT",
+    "submitRequestSuccess":"Submit Request Success",
+    "close":"Close"
+  },
+  "searchRequestScreen":{
+    "headerText":"Search",
+    "typeRequest":"Type Request",
+    "pending":"Pending",
+    "approved":"Approved",
+    "notapproved":"Not approved",
+    "filter":"Filter"
+  },
+  "absenceRequestScreen":{
+    "infoRequest":"Info Request",
+    "approvedBy":"Approved By",
+    "peopleNotice":"People Notice",
+    "describe":"Describe",
+    "sentform":"Sent form",
+    "addRequest":"Add Request",
+    "shiftwork":"Shift work",
+    "shiftpick":"Shift pick",
+    "shift":"shift",
+    "reason":"Reason",
+    "confirm":"Confirm",
+    "totalspell":"Totalspell",
+    "daysOff":"Day off",
+    "remaining":"Remaining",
+    "administrative":"Administrative",
+    "dayoff":"Day off",
+    "nonotificationrecipients":"No Notification Recipients",
+    "content":"Content :"
+  },
+  "leaveRequest":{
+    "leaveRequestHeader":"Leave",
+    "workCalculation":"Work Calculation",
+    "monetaryfine":"Monetary fine",
+    "closingRequest":"Closing Request",
+    "timestart":"Time Start",
+    "timeend":"Time End"
+  },
+  "shiftmoreRequest":{
+    "shiftmoreHeader":"Shift More"
+  },
+  "overtimeRequest":{
+    "overtimeHeader":"Overtime",
+    "timestart":"Time Start",
+    "timeend":"Time End",
+    "note":"Note"
+  },
+  "missonRequest":{
+    "missonHeader":"Misson",
+    "dateStart":"Date Start",
+    "dateEnd":"Date End",
+    "adressMisson":"Adress misson",
+    "timestart": "Time Start",
+    "timeend":"Time End"
+  },
+  "shiftChangeRequest":{
+    "shiftChangeHeader":"Shift Change",
+    "shiftChangeMode":"Shift change mode",
+    "DatetoChange":"Date to change",
+    "ShiftNeedtoChange":"Shift need to change",
+    "peopleChange":"People change",
+    "dateChange":"Date change",
+    "ShiftChange":"Shift change work",
+    "primamy":"Primamy",
+    "other":"Other"
+  },
+  "shared":{
+    "success":"Success",
+    "error":"Error",
+    "warning":"Warning",
+    "info":"Info",
+    "delete":"Delete",
+    "createSuccess":"Successful application creation",
+    "notAssigned":"Not Assigned",
+    "administrative":"Administrative"
+  }
+
+
+}

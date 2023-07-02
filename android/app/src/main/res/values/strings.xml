@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TimeKeeping</string>
+    <string name="mapbox_access_token">
+        sk.eyJ1IjoiaGFvbGVkYW5oIiwiYSI6ImNsNmQxOGZvZzA3dzkzY254eW9ybnFocHgifQ.oNFDKs7k1yXTf9aX-B9BIA
+    </string>
+</resources>

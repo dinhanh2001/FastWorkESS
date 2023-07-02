@@ -1,0 +1,443 @@
+{
+  "project_info": {
+    "project_number": "635118517100",
+    "firebase_url": "https://smartguard-ba95b.firebaseio.com",
+    "project_id": "smartguard-ba95b",
+    "storage_bucket": "smartguard-ba95b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635118517100:android:43922c3bf13c57b754d149",
+        "android_client_info": {
+          "package_name": "com.fastwork.ess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCION38Mq6ldMwciZUWjnwDfbIKB6xISrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635118517100-23fn9t03fip27a8ljiviuin4mlubd4q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartguard.staff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635118517100:android:d8292351857d6bc354d149",
+        "android_client_info": {
+          "package_name": "com.fastwork.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCION38Mq6ldMwciZUWjnwDfbIKB6xISrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635118517100-23fn9t03fip27a8ljiviuin4mlubd4q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartguard.staff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635118517100:android:2e8b6cb361eca57d",
+        "android_client_info": {
+          "package_name": "vn.fastwork.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCION38Mq6ldMwciZUWjnwDfbIKB6xISrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635118517100-23fn9t03fip27a8ljiviuin4mlubd4q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartguard.staff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635118517100:android:61ace722f44b065d",
+        "android_client_info": {
+          "package_name": "vn.mobiwork.vietlott"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCION38Mq6ldMwciZUWjnwDfbIKB6xISrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635118517100-23fn9t03fip27a8ljiviuin4mlubd4q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartguard.staff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635118517100:android:ced4c2e5744d2005",
+        "android_client_info": {
+          "package_name": "vn.smartguard.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCION38Mq6ldMwciZUWjnwDfbIKB6xISrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635118517100-23fn9t03fip27a8ljiviuin4mlubd4q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartguard.staff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635118517100:android:e306f6cb56b87f81",
+        "android_client_info": {
+          "package_name": "vn.smartguard.staff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCION38Mq6ldMwciZUWjnwDfbIKB6xISrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635118517100-23fn9t03fip27a8ljiviuin4mlubd4q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartguard.staff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635118517100:android:2c21b02d6e344af4",
+        "android_client_info": {
+          "package_name": "vn.smartworker.construction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCION38Mq6ldMwciZUWjnwDfbIKB6xISrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635118517100-23fn9t03fip27a8ljiviuin4mlubd4q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartguard.staff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635118517100:android:9d316348aae9b209",
+        "android_client_info": {
+          "package_name": "vn.smartworker.diemban"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCION38Mq6ldMwciZUWjnwDfbIKB6xISrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635118517100-23fn9t03fip27a8ljiviuin4mlubd4q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartguard.staff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635118517100:android:45654d3479203967",
+        "android_client_info": {
+          "package_name": "vn.smartworker.employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCION38Mq6ldMwciZUWjnwDfbIKB6xISrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635118517100-23fn9t03fip27a8ljiviuin4mlubd4q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartguard.staff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635118517100:android:b03cdc0e038a7ae4",
+        "android_client_info": {
+          "package_name": "vn.smartworker.fastwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCION38Mq6ldMwciZUWjnwDfbIKB6xISrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635118517100-23fn9t03fip27a8ljiviuin4mlubd4q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartguard.staff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635118517100:android:c48a9a6b1c10cbb0",
+        "android_client_info": {
+          "package_name": "vn.smartworker.staff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCION38Mq6ldMwciZUWjnwDfbIKB6xISrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635118517100-23fn9t03fip27a8ljiviuin4mlubd4q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartguard.staff"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635118517100:android:90e9e62eb09e93cd",
+        "android_client_info": {
+          "package_name": "vn.smartworker.worker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCION38Mq6ldMwciZUWjnwDfbIKB6xISrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635118517100-1kntd8b74n946c4punuui0scttomafqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635118517100-23fn9t03fip27a8ljiviuin4mlubd4q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartguard.staff"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

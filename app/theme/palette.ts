@@ -1,0 +1,21 @@
+export const palette = {
+  black: "#1d1d1d",
+  white: "#ffffff",
+  offWhite: "#e6e6e6",
+  orange: "#FBA928",
+  orangeDarker: "#EB9918",
+  lightGrey: "#939AA4",
+  lighterGrey: "#CDD4DA",
+  angry: "#dd3333",
+  deepPurple: "#5D2555",
+  pressStart: "#7AF176",
+  pressEnd: "#35B1B7",
+  bgView:"#F5F6F8",
+  focusOut:"#838383",
+  primaryst:"#308AF3",
+  primaryend:"#4B65DF",
+  success:"#2FD686",
+  warning:"#FFB931",
+  danger:"#F53558",
+  info: "#FED7AA"
+}

@@ -1,0 +1,232 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Đóng",
+    "back": "Trở lại"
+  },
+  "errors": {
+    "invalidEmail": "Tài khoản hoặc mật khẩu sai."
+  },
+  "bottomtabs":{
+    "home" : "Trang chủ",
+    "notification":"Thông báo",
+    "profile":"Tài khoản"
+  },
+  "loginScreen": {
+    "productBy": "Employee",
+    "nameProduct": "Self Service",
+    "username": "Tài Khoản",
+    "forgotPassword" :"Quên mật khẩu",
+    "login" : "Đăng nhập",
+    "password":"Mật khẩu",
+    "loading":"Đang tải",
+    "saveAccount":"Lưu tài khoản",
+    "headerError":"Thông báo",
+    "messError":"Sai tài khoản hoặc mật khẩu",
+    "closeError":"Đóng",
+    "Choose":"Chọn",
+    "selectOrganization":"Chọn Tổ Chức"
+  },
+  "homeScreen":{
+    "welcome":"Chào mừng",
+    "checkin" :"Chấm vào",
+    "checkout":"Chấm ra",
+    "attendance":"Chấm công",
+    "overtime" :"Tăng ca",
+    "drawer":"Trang chủ"
+  },
+  "checkinScreen": {
+    "chooseShift": "Chọn ca",
+    "productive": "Chúc bạn một ngày làm việc hiệu quả!",
+    "takeAttendance": "Bạn chưa chấm công hôm nay!"
+  },
+  "notificationScreen":{
+    "headerText" :"Thông báo"
+  },
+  "notificationDetailScreen":{
+    "notificationDetail":"Chi tiết thông báo",
+    "messagefrom":"Thông báo từ :",
+    "content":"Nội dung :",
+    "title":"Tiêu đề :"
+  },
+  "profileScreen":{
+    "headerText":"Tài khoản",
+    "employ" :"Thông tin cá nhân",
+    "logout" :"Đăng xuất",
+    "contact": "Địa chỉ và liên hệ",
+    "datecount": "Tổng số ngày",
+    "yearsummary": "Tổng kết năm",
+    "language": "Ngôn ngữ",
+    "user": "CÁ NHÂN",
+    "settings": "CÀI ĐẶT",
+    "password":"Mật khẩu",
+    "accInfo": "Thông tin liên hệ",
+    "fullName": "Họ tên",
+    "addr": "Địa chỉ",
+    "email": "Email",
+    "birthday": "Ngày sinh",
+    "dateStartWork": "Ngày bắt đầu công việc",
+    "phoneNumber": "Số điện thoại",
+    "code": "Mã đăng nhập",
+    "gender": "Giới tính",
+    "lateOfMonth": "Số lần đi muộn trong tháng",
+    "lateOfYear": "Số lần đi muộn trong năm",
+    "updateInfo": "Cập nhật thông tin",
+    "changePassword": "Thay đổi mật khẩu",
+    "verInfo": "Thông tin ứng dụng",
+    "modify": "Không được sửa trường này",
+    "updateAvt": "Cập nhật ảnh đại diện",
+    "camera": "Chụp ảnh",
+    "library": "Chọn từ thư viện",
+    "save": "Xác nhận",
+    "curentPassword": "Mật khẩu hiện tại",
+    "curentPasswordMessage": "Vui lòng nhập mật khẩu hiện tại!",
+    "newPassword": "Mật khẩu mới",
+    "newPasswordMessage": "Vui lòng nhập mật khẩu mới!",
+    "retypePassword": "Nhập lại mật khẩu",
+    "retypePasswordMessage": "Vui lòng nhập lại mật khẩu mới!",
+    "passwordMessage": "mật khẩu nhập lại không chính xác!",
+    "required": "Trường này là bắt buộc",
+    "updateSuccessful": "Cập nhật thành công!",
+    "cancel": "Hủy"
+  },
+  "attendanceScreen":{
+    "headerText" :"Chấm công",
+    "history":"LỊCH SỬ",
+    "canlendar" :"LỊCH",
+    "pesent":"Có mặt",
+    "absent" :"Vắng mặt",
+    "late" :"Muộn",
+    "date":"Ngày",
+    "checkin" :"Thời gian vào:",
+    "checkout" :"Thời gian ra:",
+    "minutes":"Phút",
+    "checkdataBox":"Không có dữ liệu",
+    "namework":"Tên ca:",
+    "worknumber":"Công làm việc:",
+    "minuteslate":"Số phút đi muộn:",
+    "minutesealry":"Số phút về sớm:",
+    "overtimehours":"Số giờ làm thêm:",
+    "shifttime":"Thời gian ca:",
+    "timekeepingon":"Chấm vào:",
+    "timekeepingout":"Chấm ra:",
+    "untimed":"Chưa chấm công",
+    "day":"Ngày"
+  },
+  "request":{
+    "headerRequest":"Đơn từ",
+    "later":"Vắng mặt",
+    "absence":"Nghỉ phép",
+    "shiftmore":"Tăng ca",
+    "overtime":"Làm thêm",
+    "misson":"Công tác",
+    "worktime":"Chế độ",
+    "shiftchange":"Đổi ca",
+    "checkin":"Giải trình",
+    "applicationoftheweek":"Đơn trong tuần",
+    "allapplications":"Tất cả đơn đã được xử lí !",
+    "see":"xem",
+    "shift":"Ca :",
+    "selector":"Ca chọn :",
+    "reason":"Lý do"
+  },
+  "leaveScreen":{
+    "headerText":"Yêu cầu",
+    "remaining":"Còn lại",
+    "taken" :"Lấy",
+    "total" :"Toàn bộ",
+    "all" :"Tất cả",
+    "annual":"Hàng năm",
+    "personal" :"Riêng tư",
+    "sick":"Ốm",
+    "vacation":"Kì nghỉ",
+    "approved":"Đã được phê duyệt",
+    "datestart":"Ngày bắt đầu",
+    "dateend":"Ngày kết thúc",
+    "leavetype":"Leave Type",
+    "note":"Lưu ý:",
+    "document":"tài liệu",
+    "apply":"Áp dụng",
+    "submitrequest":"Bạn có muốn gửi đơn ?",
+    "cancel":"Đóng",
+    "submit":"Gửi",
+    "submitRequestSuccess":"Gửi đơn thành công",
+    "close":"Đóng"
+  } ,
+  "searchRequestScreen":{
+    "headerText":"Tìm kiếm",
+    "typeRequest":"Loại đơn",
+    "pending":"Chờ duyệt",
+    "approved":"Đã duyệt",
+    "notapproved":"Không duyệt",
+    "filter":"Lọc theo"
+  },
+  "absenceRequestScreen":{
+    "infoRequest":"Thông tin đơn",
+    "approvedBy":"Người duyệt",
+    "peopleNotice":"Người thông báo",
+    "describe":"Mô tả",
+    "sentform":"Gửi đơn",
+    "addRequest":"Thêm thông tin đơn",
+    "shiftwork":"Ca được phân",
+    "shiftpick":"Ca chọn",
+    "shift":"Ca",
+    "reason":"Lý do",
+    "confirm":"Xác nhận",
+    "totalspell":"Tổng phép",
+    "daysOff":"Đã nghỉ",
+    "remaining":"Còn lại",
+    "administrative":"Hành chính",
+    "dayoff":"Ngày nghỉ",
+    "nonotificationrecipients":"Không có người nhận thông báo",
+    "content":"Nội dung :"
+  },
+  "leaveRequest":{
+    "leaveRequestHeader":"Xin vắng mặt",
+    "workCalculation":"Tính công",
+    "monetaryfine":"Phạt tiền",
+    "closingRequest":"Yêu cầu chốt",
+    "timestart":"Giờ bắt đầu",
+    "timeend":"Giờ kết thúc"
+  },
+   "shiftmoreRequest":{
+    "shiftmoreHeader":"Xin tăng ca"
+  },
+  "overtimeRequest":{
+    "overtimeHeader":"Xin làm thêm",
+    "timestart":"Giờ bắt đầu",
+    "timeend":"Giờ kết thúc",
+    "note":"Ghi chú"
+  },
+  "missonRequest":{
+    "missonHeader":"Xin công tác",
+    "dateStart":"Từ ngày",
+    "dateEnd":"Đến ngày",
+    "adressMisson":"Địa điểm công tác",
+    "timestart": "Giờ bắt đầu",
+    "timeend":"Giờ kết thúc"
+  },
+  "shiftChangeRequest":{
+    "shiftChangeHeader":"Xin đổi ca",
+    "shiftChangeMode":"Kiểu đổi ca",
+    "DatetoChange":"Ngày cần đổi",
+    "ShiftNeedtoChange":"Ca cần đổi",
+    "peopleChange":"Người đổi",
+    "dateChange":"Ngày đổi",
+    "ShiftChange":"Ca muốn làm",
+    "primamy":"Chính mình",
+    "other":"Người khác"
+  },
+  "shared":{
+    "success":"Thành công",
+    "error":"Lỗi",
+    "warning":"Cảnh báo",
+    "info":"Thông tin",
+    "delete":"Xóa",
+    "createSuccess":"Tạo đơn thành công",
+    "notAssigned":"Chưa được phân ca",
+    "administrative":"Hành chính"
+  }
+
+
+}
